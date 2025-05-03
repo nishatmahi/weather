@@ -1,16 +1,21 @@
-# weather
+#  Smart Weather App
 
-A new Flutter project.
+A modern Flutter Android app for checking real-time weather and predicting sky conditions from images using a machine learning model.
 
-## Getting Started
+##  Features
+- Use WeatherAPI to know City-based weather info (temp, condition)
+- Upload sky photo → ML prediction
+- Elegant UI
 
-This project is a starting point for a Flutter application.
+##  Get Started
+- Clone the repo
+- Add `google-services.json`
+- Replace Weather API key
+- Run with `flutter run`
 
-A few resources to get you started if this is your first Flutter project:
+##  ML Model
+- Uses `weather_model.tflite` to classify sky conditions
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  Screenshots
+![[screenshot1](assets/screenshot1.png)](https://github.com/nishatmahi/weather/blob/main/Weather_APP.jpeg?raw=true)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
