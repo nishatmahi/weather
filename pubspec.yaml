@@ -1,0 +1,28 @@
+name: weather
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  fluttertoast: ^8.2.1
+  image_picker: ^0.8.6
+  tflite: ^1.1.2 # Only if you are using TensorFlow Lite model
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/ # Your model.tflite and labels.txt inside this folder

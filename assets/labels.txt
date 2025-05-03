@@ -1,0 +1,5 @@
+Cloudy
+Foggy
+Rainy
+Snowy
+Sunny

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048152991549",
+    "project_id": "smart-weather-app-52d11",
+    "storage_bucket": "smart-weather-app-52d11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048152991549:android:184253f05d12c4f0a60754",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoEeaDPYKpZHJ777TXWWZ4sjFNREzfWnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
